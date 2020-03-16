@@ -1,3 +1,7 @@
+/*
+code is incomplete
+*/
+
 #include <iostream>
 #define MAXSIZE 20
 using namespace std;
